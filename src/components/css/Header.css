@@ -1,0 +1,23 @@
+.todo-header {
+    background-color: #4caf50;
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .todo-title {
+    font-size: 2rem;
+    margin: 0;
+    font-weight: bold;
+  }
+  
+  .todo-subtitle {
+    font-size: 1.2rem;
+    margin: 5px 0 0;
+    font-style: italic;
+    opacity: 0.9;
+  }
+  
